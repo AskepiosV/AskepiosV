@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologías
 
-Python · Git · Linux
+Python · Git · Linux (mas en camino)
 
 ---
 
