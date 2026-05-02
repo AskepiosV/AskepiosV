@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologías
 
-Python · Git · Linux (mas en camino)
+Python · Git · Linux · HTML · JS · (mas en camino)
 
 ---
 
